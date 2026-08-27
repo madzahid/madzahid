@@ -132,7 +132,7 @@ A clean, minimal, SEO-optimised WordPress theme — performance-first, no bloat.
 
 <br><br>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=madzahid&hide_border=true&background=0D1117&stroke=F97316&ring=F97316&fire=EA6A0A&currStreakLabel=F97316&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak" />
+<img height="170" src="https://streak-stats.demolab.com/?user=madzahid&hide_border=true&background=0D1117&stroke=F97316&ring=F97316&fire=EA6A0A&currStreakLabel=F97316&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak" />
 
 <br><br>
 
