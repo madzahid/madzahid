@@ -130,10 +130,6 @@ A clean, minimal, SEO-optimised WordPress theme — performance-first, no bloat.
 <img height="170" src="https://github-readme-stats-plum-five-85.vercel.app/api?username=madzahid&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=F97316&icon_color=F97316&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats-plum-five-85.vercel.app/api/top-langs/?username=madzahid&layout=compact&hide_border=true&langs_count=8&title_color=F97316&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" />
 
-<br><br>
-
-<img height="170" src="https://streak-stats.demolab.com/?user=madzahid&hide_border=true&background=0D1117&stroke=F97316&ring=F97316&fire=EA6A0A&currStreakLabel=F97316&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak" />
-
 </div>
 
 <br>
