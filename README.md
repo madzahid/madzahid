@@ -118,6 +118,25 @@ A clean, minimal, SEO-optimised WordPress theme — performance-first, no bloat.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 Sabaq — Quran for Hifz
+A Quran reader built for memorization: a 16-line Indo-Pak Mushaf with colour-coded tajweed, hifz (page-blur) mode, listening mode for catching mistakes, and progress tracking. Offline-capable, in Urdu, English & Arabic.
+
+<a href="https://quranforhifz.com"><img src="https://img.shields.io/badge/Live-quranforhifz.com-F97316?style=flat&logo=googlechrome&logoColor=white" alt="Live" /></a>
+<a href="https://github.com/madzahid/sabaq"><img src="https://img.shields.io/badge/Repo-sabaq-3178C6?style=flat&logo=typescript&logoColor=white" alt="Repo" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ➕ More on GitHub
+Open-source tools, security research and experiments across web development, WordPress and AI automation.
+
+<a href="https://github.com/madzahid?tab=repositories"><img src="https://img.shields.io/badge/Browse-all%20repos-24292F?style=flat&logo=github&logoColor=white" alt="All repos" /></a>
+
+</td>
+</tr>
 </table>
 
 <br>
